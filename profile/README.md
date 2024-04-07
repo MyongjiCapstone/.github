@@ -1,4 +1,4 @@
-## 명지대학교 캡스톤디자인1
+## 명지대학교 캡스톤디자인1😄
 - **기분 어때(Feel Check) FrontEnd : https://github.com/MyongjiCapstone/FeelCheck-Front**  
   React Native / Expo 를 활용한 캡스톤디자인 팀 프로젝트. AI기반 감정 다이어리 APP
 <!--
